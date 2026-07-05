@@ -1,9 +1,11 @@
 const name = "hitesh"
 const repoCount = 50
+let learner = "prajakta"
 
 // console.log(name + repoCount + " Value");
 
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
+console.log(`hello just trying string ${learner} and learning string interpolation and bdate is ${10+9}`);
 
 const gameName = new String('hitesh-hc-com')
 
